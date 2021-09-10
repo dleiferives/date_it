@@ -1,3 +1,6 @@
+/* dleiferives */
+/* Fist coded 9-8-2021 */
+/* updated 9-9-2021 23:29:23 */
 #include <stdio.h>
 #include <time.h>
 #include <windows.h>
